@@ -5,6 +5,10 @@ Team Mitglieder:
 * kossowsk
 * pgleisbe
 
+## Ideen
+
+
 ## Konzept
+
 
 ## Prototyp
