@@ -9,8 +9,11 @@ Team Mitglieder:
 * pgleisbe
 
 ## Ideen
-Hörbuch
--Ausstoß von co2 durch verschiedene energieträger
+
+
+*Hörbuch
+
+*Ausstoß von co2 durch verschiedene energieträger
 
 
 ## Konzept
