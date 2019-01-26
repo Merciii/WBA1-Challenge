@@ -11,7 +11,7 @@ Team Mitglieder:
 ## Ideen
 
 
-*Hörbuch
+*Hörbuch/Podcast
 
 *Ausstoß von co2 durch verschiedene energieträger
 
