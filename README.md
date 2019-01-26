@@ -22,6 +22,5 @@ Team Mitglieder:
 
 ## Konzept
 
-
 ## Prototyp
 
