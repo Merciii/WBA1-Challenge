@@ -7,6 +7,8 @@ Team Mitglieder:
 
 ## Ideen
 Hörbuch
+-Ausstoß von co2 durch verschiedene energieträger
+
 
 ## Konzept
 
