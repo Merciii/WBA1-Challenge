@@ -1,0 +1,18 @@
+<svg width="48" height="48" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>minus</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(8030 -469)">
+<rect x="-8030" y="469" width="48" height="48" fill="#777777"/>
+<clipPath id="clip-0" clip-rule="evenodd">
+<path d="M -8030 469L -7982 469L -7982 517L -8030 517L -8030 469Z" fill="#FFFFFF"/>
+</clipPath>
+<g id="minus" clip-path="url(#clip-0)">
+<g id="Rectangle 25">
+<use xlink:href="#path0_fill" transform="matrix(6.12323e-17 -1 1 6.12323e-17 -8016 494.5)" fill="#FFFFFF" fill-opacity="0.6"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 0 1C 0 0.447715 0.447715 0 1 0L 2 0C 2.55228 0 3 0.447715 3 1L 3 19C 3 19.5523 2.55228 20 2 20L 1 20C 0.447715 20 0 19.5523 0 19L 0 1Z"/>
+</defs>
+</svg>

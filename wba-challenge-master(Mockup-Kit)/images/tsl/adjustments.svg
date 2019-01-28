@@ -1,0 +1,17 @@
+<svg width="48" height="48" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>adjustments</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(7670 -901)">
+<clipPath id="clip-0" clip-rule="evenodd">
+<path d="M -7670 901L -7622 901L -7622 949L -7670 949L -7670 901Z" fill="#FFFFFF"/>
+</clipPath>
+<g id="adjustments" clip-path="url(#clip-0)">
+<g id="Union">
+<use xlink:href="#path0_fill" transform="translate(-7660 911)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 7 0C 6.44775 0 6 0.447754 6 1L 6 4L 1 4C 0.447754 4 0 4.44775 0 5L 0 7C 0 7.55225 0.447754 8 1 8L 6 8L 6 11C 6 11.5522 6.44775 12 7 12L 9 12C 9.55225 12 10 11.5522 10 11L 10 8L 27 8C 27.5522 8 28 7.55225 28 7L 28 5C 28 4.44775 27.5522 4 27 4L 10 4L 10 1C 10 0.447754 9.55225 0 9 0L 7 0ZM 0 21C 0 20.4478 0.447754 20 1 20L 18 20L 18 17C 18 16.4478 18.4478 16 19 16L 21 16C 21.5522 16 22 16.4478 22 17L 22 20L 27 20C 27.5522 20 28 20.4478 28 21L 28 23C 28 23.5522 27.5522 24 27 24L 22 24L 22 27C 22 27.5522 21.5522 28 21 28L 19 28C 18.4478 28 18 27.5522 18 27L 18 24L 1 24C 0.447754 24 0 23.5522 0 23L 0 21Z"/>
+</defs>
+</svg>

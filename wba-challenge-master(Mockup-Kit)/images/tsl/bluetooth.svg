@@ -1,0 +1,17 @@
+<svg width="48" height="48" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>bluetooth</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(8102 -397)">
+<clipPath id="clip-0" clip-rule="evenodd">
+<path d="M -8102 397L -8054 397L -8054 445L -8102 445L -8102 397Z" fill="#FFFFFF"/>
+</clipPath>
+<g id="bluetooth" clip-path="url(#clip-0)">
+<g id="Subtract">
+<use xlink:href="#path0_fill" transform="translate(-8087 407)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 9 0C 4.02954 0 0 4.02954 0 9L 0 19C 0 23.9705 4.02954 28 9 28C 13.9705 28 18 23.9705 18 19L 18 9C 18 4.02954 13.9705 0 9 0ZM 8.63062 4.32495C 7.97705 3.79395 7 4.25903 7 5.10107L 7 12L 4.20703 9.20703C 3.81665 8.81665 3.18335 8.81665 2.79297 9.20703L 2.70703 9.29297C 2.31665 9.68335 2.31665 10.3167 2.70703 10.707L 6 14L 2.70703 17.293C 2.31665 17.6833 2.31665 18.3167 2.70703 18.707L 2.79297 18.793C 3.18335 19.1833 3.81665 19.1833 4.20703 18.793L 7 16L 7 22.0989C 7 22.9041 7.90308 23.3792 8.56665 22.9231L 13.9546 19.2188C 14.4875 18.8523 14.5378 18.084 14.0571 17.6514L 10 14L 14.1309 10.2822C 14.5874 9.87134 14.5691 9.1499 14.0925 8.7627L 8.63062 4.32495ZM 10 8L 10 11.5L 12 9.5L 10 8ZM 10 20L 10 16.5L 12 18.5L 10 20Z"/>
+</defs>
+</svg>

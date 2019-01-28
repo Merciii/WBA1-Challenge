@@ -1,0 +1,35 @@
+<svg width="1064" height="121" viewBox="0 0 1064 121" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>COLORS</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(8174 -89)">
+<g id="COLORS">
+<g id="Rectangle 2">
+<use xlink:href="#path0_fill" transform="matrix(6.12323e-17 -1 1 6.12323e-17 -8174 210)" fill="#007BE4"/>
+</g>
+<g id="Rectangle 2">
+<use xlink:href="#path0_fill" transform="matrix(6.12323e-17 -1 1 6.12323e-17 -8039.29 210)" fill="#D0021B"/>
+</g>
+<g id="Rectangle 2">
+<use xlink:href="#path0_fill" transform="matrix(6.12323e-17 -1 1 6.12323e-17 -7904.59 210)" fill="#25CB55"/>
+</g>
+<g id="Rectangle 2">
+<use xlink:href="#path0_fill" transform="matrix(6.12323e-17 -1 1 6.12323e-17 -7769.88 210)" fill="#FFBD0A"/>
+</g>
+<g id="Rectangle 2">
+<use xlink:href="#path0_fill" transform="matrix(6.12323e-17 -1 1 6.12323e-17 -7635.18 210)" fill="#7071C5"/>
+</g>
+<g id="Rectangle 2">
+<use xlink:href="#path0_fill" transform="matrix(6.12323e-17 -1 1 6.12323e-17 -7500.47 210)" fill="#0E0E0E"/>
+</g>
+<g id="Rectangle 2">
+<use xlink:href="#path0_fill" transform="matrix(6.12323e-17 -1 1 6.12323e-17 -7365.77 210)"/>
+</g>
+<g id="Rectangle 2">
+<use xlink:href="#path0_fill" transform="matrix(6.12323e-17 -1 1 6.12323e-17 -7231.06 210)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 0 0L 121 0L 121 121.064L 0 121.064L 0 0Z"/>
+</defs>
+</svg>

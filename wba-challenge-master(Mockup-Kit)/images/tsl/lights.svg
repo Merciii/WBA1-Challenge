@@ -1,0 +1,18 @@
+<svg width="48" height="48" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>lights</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(7382 -901)">
+<rect x="-7382" y="901" width="48" height="48" fill="#777777"/>
+<clipPath id="clip-0" clip-rule="evenodd">
+<path d="M -7382 901L -7334 901L -7334 949L -7382 949L -7382 901Z" fill="#FFFFFF"/>
+</clipPath>
+<g id="lights" clip-path="url(#clip-0)">
+<g id="Union">
+<use xlink:href="#path0_fill" transform="translate(-7370 908)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 4 12C 4 7.58154 7.58154 4 12 4C 16.4185 4 20 7.58154 20 12C 20 12.3755 19.8345 13.2583 19.311 14.6738C 18.8081 16.043 18.1543 17.4414 17.4355 18.8501C 16.8262 20.0479 16.229 21.1255 15.7266 22L 8.27344 22C 7.771 21.1255 7.17383 20.0479 6.56445 18.8501C 5.8457 17.4414 5.19189 16.043 4.68896 14.6738C 4.16553 13.2583 4 12.3755 4 12ZM 24 12C 24 16.4419 18 26 18 26L 6 26C 6 26 0 16.4419 0 12C 0 5.37256 5.37256 0 12 0C 18.6274 0 24 5.37256 24 12ZM 6 29L 6 30.146C 6 31.2822 6.64209 32.3208 7.6582 32.8291L 9.15527 33.5776C 9.71094 33.8555 10.3232 34 10.9443 34L 13.0557 34C 13.6768 34 14.2891 33.8555 14.8447 33.5776L 16.3418 32.8291C 17.3579 32.3208 18 31.2822 18 30.146L 18 29C 18 28.4478 17.5522 28 17 28L 7 28C 6.44775 28 6 28.4478 6 29Z"/>
+</defs>
+</svg>

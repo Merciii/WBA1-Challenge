@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="40px" viewBox="0 0 26 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>phone-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 48 0 48 48 0 48"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="tsl-main-control-bar" transform="translate(-1571.000000, -47.000000)">
+            <g id="phone-icon" transform="translate(1560.000000, 43.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Shape"></g>
+                <g id="phone" mask="url(#mask-2)">
+                    <g transform="translate(11.000000, 4.000000)" id="Subtract">
+                        <g>
+                            <g id="path6_fill-link" fill-rule="nonzero" fill="#FFFFFF">
+                                <path d="M6,0 L20,0 C23.3137,0 26,2.68628 26,6 L26,34 C26,37.3137 23.3137,40 20,40 L6,40 C2.68628,40 0,37.3137 0,34 L0,6 C0,2.68628 2.68628,0 6,0 Z M16,2 L10,2 C10,2.55225 10.4478,3 11,3 L15,3 C15.5522,3 16,2.55225 16,2 Z M13,39 C13.8284,39 14.5,38.3284 14.5,37.5 C14.5,36.6716 13.8284,36 13,36 C12.1716,36 11.5,36.6716 11.5,37.5 C11.5,38.3284 12.1716,39 13,39 Z M3,7 L3,33 C3,34.1046 3.89539,35 5,35 L21,35 C22.1046,35 23,34.1046 23,33 L23,7 C23,5.89539 22.1046,5 21,5 L5,5 C3.89539,5 3,5.89539 3,7 Z" id="path6_fill"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

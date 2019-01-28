@@ -1,0 +1,24 @@
+<svg width="62" height="20" viewBox="0 0 62 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>battery</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(8174 -353)">
+<g id="battery">
+<g id="battery">
+<mask id="mask0_outline_ins">
+<use xlink:href="#path0_fill" fill="white" transform="translate(-8174 353)"/>
+</mask>
+<g mask="url(#mask0_outline_ins)">
+<use xlink:href="#path1_stroke_2x" transform="translate(-8174 353)" fill="#FFFFFF" fill-opacity="0.4"/>
+</g>
+</g>
+<g id="level">
+<use xlink:href="#path2_fill" transform="translate(-8172 355)" fill="#25CB55"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 2 0C 0.895508 0 0 0.895508 0 2L 0 18C 0 19.1045 0.895508 20 2 20L 56 20C 57.1045 20 58 19.1045 58 18L 58 2C 58 0.895508 57.1045 0 56 0L 2 0ZM 60 15L 59 15L 59 7L 60 7C 61.1045 7 62 7.89551 62 9L 62 13C 62 14.1045 61.1045 15 60 15Z"/>
+<path id="path1_stroke_2x" d="M 59 15L 57 15L 57 17L 59 17L 59 15ZM 59 7L 59 5L 57 5L 57 7L 59 7ZM 2 2L 2 -2C -0.209062 -2 -2 -0.209062 -2 2L 2 2ZM 2 18L 2 2L -2 2L -2 18L 2 18ZM 2 18L -2 18C -2 20.2091 -0.209062 22 2 22L 2 18ZM 56 18L 2 18L 2 22L 56 22L 56 18ZM 56 18L 56 22C 58.2091 22 60 20.2091 60 18L 56 18ZM 56 2L 56 18L 60 18L 60 2L 56 2ZM 56 2L 60 2C 60 -0.209062 58.2091 -2 56 -2L 56 2ZM 2 2L 56 2L 56 -2L 2 -2L 2 2ZM 59 17L 60 17L 60 13L 59 13L 59 17ZM 57 7L 57 15L 61 15L 61 7L 57 7ZM 60 5L 59 5L 59 9L 60 9L 60 5ZM 64 9C 64 6.79094 62.2091 5 60 5L 60 9L 64 9ZM 64 13L 64 9L 60 9L 60 13L 64 13ZM 60 17C 62.2091 17 64 15.2091 64 13L 60 13L 60 17Z"/>
+<path id="path2_fill" d="M 0 0L 54 0L 54 16L 0 16L 0 0Z"/>
+</defs>
+</svg>

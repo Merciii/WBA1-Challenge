@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="42px" viewBox="0 0 32 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>music-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 48 0 48 48 0 48"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="tsl-main-control-bar" transform="translate(-1417.000000, -46.000000)">
+            <g id="music-icon" transform="translate(1410.000000, 43.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Shape"></g>
+                <g id="music" mask="url(#mask-2)">
+                    <g transform="translate(7.000000, 3.000000)" id="Union">
+                        <g>
+                            <g id="path7_fill-link" transform="translate(0.000000, 0.500000)" fill-rule="nonzero" fill="#FFFFFF">
+                                <path d="M32,0 L8,6 L8,14 L8,31.9996 C7.16431,31.3719 6.12561,31 5,31 C2.23853,31 0,33.2385 0,36 C0,38.7615 2.23853,41 5,41 C7.76147,41 10,38.7615 10,36 L10,13.5 L30,8.5 L30,26.9996 C29.1643,26.3719 28.1256,26 27,26 C24.2385,26 22,28.2385 22,31 C22,33.7615 24.2385,36 27,36 C29.7615,36 32,33.7615 32,31 L32,8 L32,1 L32,0 Z" id="path7_fill"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

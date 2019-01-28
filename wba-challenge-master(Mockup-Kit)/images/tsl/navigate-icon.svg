@@ -1,0 +1,33 @@
+<svg width="48" height="48" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>navigate icon</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(7742 -685)">
+<clipPath id="clip-0" clip-rule="evenodd">
+<path d="M -7742 685L -7694 685L -7694 733L -7742 733L -7742 685Z" fill="#FFFFFF"/>
+</clipPath>
+<g id="navigate icon" clip-path="url(#clip-0)">
+<clipPath id="clip-1" clip-rule="evenodd">
+<path d="M -7734 709L -7718.44 693.444L -7702.89 709L -7718.44 724.556L -7734 709Z" fill="#FFFFFF"/>
+</clipPath>
+<g id="navicon" clip-path="url(#clip-1)">
+<g id="Group">
+<g id="Vector 43" filter="url(#filter0_d)">
+<use xlink:href="#path0_stroke" transform="matrix(0.707107 -0.707107 0.707107 0.707107 -7730.48 709.959)" fill="#FFFFFF" fill-opacity="0.4"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d" filterUnits="userSpaceOnUse" x="-7736" y="699" width="30" height="29" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0"/>
+<feOffset dx="0" dy="2"/>
+<feGaussianBlur stdDeviation="2"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.5 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<path id="path0_stroke" d="M 3.80957 7.6299L 2.92874 8.10333L 2.92874 8.10333L 3.80957 7.6299ZM 0.0530406 0.640766L -0.827791 1.1142L -0.827791 1.1142L 0.0530406 0.640766ZM 0.62366 0.0373228L 1.01312 -0.88372L 1.01312 -0.88372L 0.62366 0.0373228ZM 18.113 7.43266L 18.5025 6.51161L 18.5025 6.51161L 18.113 7.43266ZM 3.80957 8.0361L 2.92874 7.56267L 2.92874 7.56267L 3.80957 8.0361ZM 0.0530406 15.0252L -0.827791 14.5518L -0.827791 14.5518L 0.0530406 15.0252ZM 0.62366 15.6287L 1.01312 16.5497L 1.01312 16.5497L 0.62366 15.6287ZM 18.113 8.23334L 18.5025 9.15439L 18.113 8.23334ZM 4.6904 7.15647L 0.933872 0.167336L -0.827791 1.1142L 2.92874 8.10333L 4.6904 7.15647ZM 0.234199 0.958366L 17.7235 8.3537L 18.5025 6.51161L 1.01312 -0.88372L 0.234199 0.958366ZM 2.92874 7.56267L -0.827791 14.5518L 0.933872 15.4987L 4.6904 8.50953L 2.92874 7.56267ZM 1.01312 16.5497L 18.5025 9.15439L 17.7235 7.3123L 0.234199 14.7076L 1.01312 16.5497ZM 2.92874 8.10333C 2.83818 7.93484 2.83818 7.73116 2.92874 7.56267L 4.6904 8.50953C 4.91762 8.08677 4.91762 7.57923 4.6904 7.15647L 2.92874 8.10333ZM 0.933872 0.167336C 1.22032 0.700277 0.648866 1.13371 0.234199 0.958366L 1.01312 -0.88372C -0.172859 -1.38521 -1.50553 -0.146767 -0.827791 1.1142L 0.933872 0.167336ZM 17.7235 8.3537C 17.2679 8.16102 17.2679 7.50498 17.7235 7.3123L 18.5025 9.15439C 19.6749 8.65863 19.6749 7.00737 18.5025 6.51161L 17.7235 8.3537ZM -0.827791 14.5518C -1.50553 15.8128 -0.172858 17.0512 1.01312 16.5497L 0.234199 14.7076C 0.648865 14.5323 1.22032 14.9657 0.933872 15.4987L -0.827791 14.5518Z"/>
+</defs>
+</svg>

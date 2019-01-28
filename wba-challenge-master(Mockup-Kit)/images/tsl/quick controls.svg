@@ -1,0 +1,18 @@
+<svg width="48" height="48" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>quick controls</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(7310 -901)">
+<rect x="-7310" y="901" width="48" height="48" fill="#777777"/>
+<clipPath id="clip-0" clip-rule="evenodd">
+<path d="M -7310 901L -7262 901L -7262 949L -7310 949L -7310 901Z" fill="#FFFFFF"/>
+</clipPath>
+<g id="quick controls" clip-path="url(#clip-0)">
+<g id="Union">
+<use xlink:href="#path0_fill" transform="translate(-7302 914)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 10 3L 22 3C 25.8662 3 29 6.13379 29 10L 29 12C 29 15.8662 25.8662 19 22 19L 10 19C 6.13379 19 3 15.8662 3 12L 3 10C 3 6.13379 6.13379 3 10 3ZM 0 10C 0 4.47705 4.47705 0 10 0L 22 0C 27.5229 0 32 4.47705 32 10L 32 12C 32 17.5229 27.5229 22 22 22L 10 22C 4.47705 22 0 17.5229 0 12L 0 10ZM 17 6C 14.2388 6 12 8.23877 12 11C 12 13.7612 14.2388 16 17 16L 20 16C 22.7612 16 25 13.7612 25 11C 25 8.23877 22.7612 6 20 6L 17 6Z"/>
+</defs>
+</svg>

@@ -1,0 +1,38 @@
+<svg width="88" height="88" viewBox="0 0 88 88" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title> light</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(7634 -1284)">
+<g id="power station toggle / light">
+<g id="power station toggle / light">
+<g id="Ellipse 11" filter="url(#filter0_d)">
+<use xlink:href="#path0_fill" transform="translate(-7630 1284)" fill="#F0F0F0"/>
+</g>
+<g id="Ellipse 11">
+<use xlink:href="#path1_fill" transform="translate(-7610 1304)" fill="#000000" fill-opacity="0.4"/>
+</g>
+<clipPath id="clip-0" clip-rule="evenodd">
+<path d="M -7603 1311L -7577 1311L -7577 1337L -7603 1337L -7603 1311Z" fill="#FFFFFF"/>
+</clipPath>
+<g id="power" clip-path="url(#clip-0)">
+<g id="scale">
+<use xlink:href="#path2_fill" transform="translate(-7594.65 1313.71)"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d" filterUnits="userSpaceOnUse" x="-7634" y="1284" width="88" height="88" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0"/>
+<feOffset dx="0" dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<path id="path0_fill" d="M 80 40C 80 62.0914 62.0914 80 40 80C 17.9086 80 0 62.0914 0 40C 0 17.9086 17.9086 0 40 0C 62.0914 0 80 17.9086 80 40Z"/>
+<path id="path1_fill" d="M 40 20C 40 31.0457 31.0457 40 20 40C 8.9543 40 0 31.0457 0 20C 0 8.9543 8.9543 0 20 0C 31.0457 0 40 8.9543 40 20Z"/>
+<path id="path2_fill" fill-rule="evenodd" d="M 4.77859 7.91663L 4.77859 0L 0.0779038 11.2821C -0.19651 11.9408 0.287865 12.6666 1.00124 12.6666L 4.51492 12.6666L 4.51492 20.5834L 9.2156 9.30127C 9.49001 8.64258 9.00564 7.91663 8.29226 7.91663L 4.77859 7.91663Z"/>
+</defs>
+</svg>

@@ -1,0 +1,17 @@
+<svg width="48" height="48" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>lock</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(7958 -397)">
+<clipPath id="clip-0" clip-rule="evenodd">
+<path d="M -7958 397L -7910 397L -7910 445L -7958 445L -7958 397Z" fill="#FFFFFF"/>
+</clipPath>
+<g id="lock" clip-path="url(#clip-0)">
+<g id="Union">
+<use xlink:href="#path0_fill" transform="translate(-7944 407)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 5 12L 15 12L 15 8C 15 5.23853 12.7615 3 10 3C 7.23853 3 5 5.23853 5 8L 5 12ZM 18 12C 19.1045 12 20 12.8955 20 14L 20 26C 20 27.1045 19.1045 28 18 28L 2 28C 0.895508 28 0 27.1045 0 26L 0 14C 0 12.8955 0.895508 12 2 12L 2 8C 2 3.58179 5.58179 0 10 0C 14.4182 0 18 3.58179 18 8L 18 12Z"/>
+</defs>
+</svg>

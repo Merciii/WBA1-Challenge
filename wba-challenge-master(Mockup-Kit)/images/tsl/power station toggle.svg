@@ -1,0 +1,27 @@
+<svg width="80" height="80" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>power station toggle</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(8071 -1284)">
+<g id="power station toggle">
+<g id="Ellipse 11">
+<use xlink:href="#path0_fill" transform="translate(-8071 1284)" fill="#000000" fill-opacity="0.9"/>
+</g>
+<g id="Ellipse 11">
+<use xlink:href="#path1_fill" transform="translate(-8051 1304)" fill="#FFFFFF" fill-opacity="0.4"/>
+</g>
+<clipPath id="clip-0" clip-rule="evenodd">
+<path d="M -8044 1311L -8018 1311L -8018 1337L -8044 1337L -8044 1311Z" fill="#FFFFFF"/>
+</clipPath>
+<g id="power" clip-path="url(#clip-0)">
+<g id="scale">
+<use xlink:href="#path2_fill" transform="translate(-8035.65 1313.71)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 80 40C 80 62.0914 62.0914 80 40 80C 17.9086 80 0 62.0914 0 40C 0 17.9086 17.9086 0 40 0C 62.0914 0 80 17.9086 80 40Z"/>
+<path id="path1_fill" d="M 40 20C 40 31.0457 31.0457 40 20 40C 8.9543 40 0 31.0457 0 20C 0 8.9543 8.9543 0 20 0C 31.0457 0 40 8.9543 40 20Z"/>
+<path id="path2_fill" fill-rule="evenodd" d="M 4.77859 7.91675L 4.77859 0L 0.0779038 11.282C -0.19651 11.9407 0.287865 12.6667 1.00124 12.6667L 4.51443 12.6667L 4.51443 20.5835L 9.21511 9.30151C 9.48952 8.64282 9.00515 7.91675 8.29177 7.91675L 4.77859 7.91675Z"/>
+</defs>
+</svg>

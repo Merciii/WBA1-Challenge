@@ -1,0 +1,21 @@
+<svg width="48" height="48" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>left turn</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(8174 -613)">
+<clipPath id="clip-0" clip-rule="evenodd">
+<path d="M -8174 613L -8126 613L -8126 661L -8174 661L -8174 613Z" fill="#FFFFFF"/>
+</clipPath>
+<g id="left turn" clip-path="url(#clip-0)">
+<g id="line">
+<use xlink:href="#path0_stroke" transform="translate(-8144 620)" fill="#FFFFFF" fill-opacity="0.4"/>
+</g>
+<g id="Union">
+<use xlink:href="#path1_fill" transform="translate(-8174 615.464)" fill="#007BE4"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_stroke" d="M -3 38C -3 39.6569 -1.65685 41 0 41C 1.65685 41 3 39.6569 3 38L -3 38ZM 3 0C 3 -1.65685 1.65685 -3 0 -3C -1.65685 -3 -3 -1.65685 -3 0L 3 0ZM 3 38L 3 0L -3 0L -3 38L 3 38Z"/>
+<path id="path1_fill" fill-rule="evenodd" d="M 0 9.53564L 17.1641 0C 15.3042 1.72437 13.9497 3.98608 13.3472 6.53857C 24.2329 6.72388 33 15.606 33 26.5356L 33 42.5356C 33 44.1924 31.6567 45.5356 30 45.5356C 28.3433 45.5356 27 44.1924 27 42.5356L 27 26.5356C 27 18.9204 20.9199 12.7249 13.3491 12.5398C 13.9521 15.0894 15.3057 17.3486 17.1641 19.0713L 0 9.53564Z"/>
+</defs>
+</svg>

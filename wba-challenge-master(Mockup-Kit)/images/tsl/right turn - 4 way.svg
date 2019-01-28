@@ -1,0 +1,19 @@
+<svg width="48" height="48" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>right turn - 4 way</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(8030 -613)">
+<rect x="-8030" y="613" width="48" height="48" fill="#777777"/>
+<g id="right turn - 4 way" opacity="0.4">
+<g id="Union">
+<use xlink:href="#path0_fill" transform="translate(-8027.5 616)" fill="#FFFFFF" fill-opacity="0.6"/>
+</g>
+<g id="Union">
+<use xlink:href="#path1_fill" transform="translate(-8010 628.071)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 23.5 3C 23.5 1.34326 22.1567 0 20.5 0C 18.8433 0 17.5 1.34326 17.5 3L 17.5 18L 3 18C 1.34326 18 0 19.3433 0 21C 0 22.6567 1.34326 24 3 24L 17.5 24L 17.5 39C 17.5 40.6567 18.8433 42 20.5 42C 22.1567 42 23.5 40.6567 23.5 39L 23.5 24L 38 24C 39.6569 24 41 22.6567 41 21C 41 19.3433 39.6569 18 38 18L 23.5 18L 23.5 3Z"/>
+<path id="path1_fill" fill-rule="evenodd" d="M 10 18.9292L 10 18.6411C 12.1475 16.9622 13.7538 14.6233 14.5134 11.9292L 6 11.9292L 6 26.9292C 6 28.5859 4.65674 29.9292 3 29.9292C 1.34326 29.9292 0 28.5859 0 26.9292L 0 8.9292C 0 7.27246 1.34326 5.9292 3 5.9292L 14.7667 5.9292C 14.3385 3.69727 13.3395 1.66821 11.9275 0L 28 8.9292L 10 18.9292Z"/>
+</defs>
+</svg>

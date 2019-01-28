@@ -1,0 +1,57 @@
+/* ----------------------------------------------------------------------------
+tesla-mockup-kit.css                                                                  
+Styles für die Elementübersicht des Kits
+----------------------------------------------------------------------------*/
+
+
+/* Farbkarte
+-----------------------------------------------------------------------------*/
+
+.tsl-bg-blue {
+    background-color: var(--tsl-blue);
+    color: #fff;
+}
+
+.tsl-bg-purple {
+    background-color: var(--tsl-purple);
+    color: #fff;
+}
+
+.tsl-bg-red {
+    background-color: var(--tsl-red);
+    color: #fff;
+}
+
+.tsl-bg-yellow {
+    background-color: var(--tsl-yellow);
+    color: #fff;
+}
+
+.tsl-bg-green {
+    background-color: var(--tsl-green);
+    color: #fff;
+}
+
+.tsl-bg-black {
+    background-color: var(--tsl-black);
+    color: #fff;
+}
+
+.tsl-bg-white {
+    background-color: var(--tsl-white);
+    color: var(--tsl-dark);
+}
+
+.tsl-bg-dark {
+    background-color: var(--tsl-dark);
+    color: #fff;
+}
+
+
+/* Helper
+-----------------------------------------------------------------------------*/
+
+hr {
+    border: none;
+    border-top: 1px solid var(--secondary);
+}

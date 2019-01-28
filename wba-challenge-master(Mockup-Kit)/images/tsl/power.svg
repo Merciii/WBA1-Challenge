@@ -1,0 +1,17 @@
+<svg width="48" height="48" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>power</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(8030 -685)">
+<clipPath id="clip-0" clip-rule="evenodd">
+<path d="M -8030 685L -7982 685L -7982 733L -8030 733L -8030 685Z" fill="#FFFFFF"/>
+</clipPath>
+<g id="power" clip-path="url(#clip-0)">
+<g id="scale">
+<use xlink:href="#path0_fill" transform="translate(-8015 690)" fill="#FFFFFF" fill-opacity="0.4"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 9.24392 14.6152L 9.24392 0L 0.0779038 22C -0.19651 22.6587 0.287865 23.3848 1.00124 23.3848L 8.7571 23.3848L 8.7571 38L 17.9231 16C 18.1975 15.3413 17.7132 14.6152 16.9998 14.6152L 9.24392 14.6152Z"/>
+</defs>
+</svg>
