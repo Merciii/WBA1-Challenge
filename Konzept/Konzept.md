@@ -1,28 +1,9 @@
-# WBA1-Challenge
+## Web-basierte Anwendungen 1: WWW Technologien Challenge 2017
 
-Im Rahmen des Moduls "Web basierte Anwendungen 1" der TH Köln, soll eine  Web Anwendung entwickelt werden. Die Anwendung soll sich auf das selbst gewählte Problemszenario beziehen und eine adequate Lösung bieten.
+Projektidee: „Emissionskalkulator“
 
-
-Team Mitglieder:
-* mcinkaya
-* kossowsk
-* pgleisbe
-
-## Ideen
-
-
-*Hörbuch/Podcast
-
-*Ausstoß von co2 durch verschiedene energieträger
-
-*beruhigende Musikgeräusche
-
-*Verbrauch
-
-*BILDER
-
-
-## Konzept
-
-## Prototyp
+Geplant ist eine Anwendung zur Berechnung des tatsächlichen CO2-Ausstoßes für einen Personenwagen der Tesla, Inc.
+Da das Auto als „Treibstoff“ elektronische Energie verwendet, gilt es zu ermitteln welche CO2-Emissionen über die Energieerzeugung für das Fahrzeug entstehen.
+Zum Beispiel entstehen bei Stromgewinnung durch Windkraft oder Photovoltaik deutlich weniger Emissionen als bei einer Produktion von Kohlestrom.
+Dem umweltbewussten Benutzer der Anwendung soll hier eine höhere Transparenz seiner persönlichen Energiebilanz gewährleistet werden. Je nach dem welcher Energieträger der persönliche Stromanbieter nutzt, variiert auch der CO2-Ausstoß für eine Ladung des Automobils.
 
