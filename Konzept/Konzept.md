@@ -1,4 +1,4 @@
-## Web-basierte Anwendungen 1: WWW Technologien Challenge 2017
+### Web-basierte Anwendungen 1: WWW Technologien Challenge 2017
 
 Projektidee: „Emissionskalkulator“
 
