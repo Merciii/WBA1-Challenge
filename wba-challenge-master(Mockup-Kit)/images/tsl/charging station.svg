@@ -1,0 +1,43 @@
+<svg width="48" height="48" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>charging station</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(7814 -682)">
+<clipPath id="clip-0" clip-rule="evenodd">
+<path d="M -7814 682L -7766 682L -7766 730L -7814 730L -7814 682Z" fill="#FFFFFF"/>
+</clipPath>
+<g id="charging station" clip-path="url(#clip-0)">
+<g id="Ellipse 10" filter="url(#filter0_d)">
+<use xlink:href="#path0_fill" transform="translate(-7804 687)" fill="#E50019"/>
+<mask id="mask0_outline_out">
+<rect id="mask0_outline_inv" fill="white" x="-2" y="-2" width="32" height="43" transform="translate(-7804 687)"/>
+<use xlink:href="#path0_fill" fill="black" transform="translate(-7804 687)"/>
+</mask>
+<g mask="url(#mask0_outline_out)">
+<use xlink:href="#path1_stroke_2x" transform="translate(-7804 687)" fill="#FFFFFF"/>
+</g>
+</g>
+<clipPath id="clip-1" clip-rule="evenodd">
+<path d="M -7801 689L -7779 689L -7779 711L -7801 711L -7801 689Z" fill="#FFFFFF"/>
+</clipPath>
+<g id="power" clip-path="url(#clip-1)">
+<g id="scale">
+<use xlink:href="#path2_fill" transform="translate(-7793.85 691.292)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d" filterUnits="userSpaceOnUse" x="-7810" y="683" width="40" height="51" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0"/>
+<feOffset dx="0" dy="2"/>
+<feGaussianBlur stdDeviation="2"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.5 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<path id="path0_fill" d="M 28 14C 28 20.6404 17.674 34.3143 14.7583 38.0429C 14.3669 38.5435 13.6331 38.5435 13.2417 38.0429C 10.326 34.3143 0 20.6404 0 14L 1.32569e-34 14C 3.32855e-17 6.26801 6.26801 0 14 0L 14 1.32569e-34C 21.732 3.32855e-17 28 6.26801 28 14Z"/>
+<path id="path1_stroke_2x" d="M 14.7583 38.0429L 16.3338 39.2749L 14.7583 38.0429ZM 0 14L 0 12L -2 12L -2 14L 0 14ZM 14 0L 16 0L 16 -2L 14 -2L 14 0ZM 13.2417 38.0429L 11.6662 39.2749L 13.2417 38.0429ZM 1.32569e-34 14L 1.32569e-34 16L 2 16L 2 14L 1.32569e-34 14ZM 14 1.32569e-34L 12 1.32569e-34L 12 2L 14 2L 14 1.32569e-34ZM 26 14C 26 15.2268 25.4988 17.0107 24.5143 19.2195C 23.5412 21.4081 22.2262 23.7344 20.7764 26.0536C 17.881 30.6913 14.6325 34.957 13.1828 36.8109L 16.3338 39.2749C 17.7997 37.4002 21.1722 32.9646 24.1686 28.1732C 25.6648 25.7778 27.1136 23.2074 28.1677 20.848C 29.2104 18.5089 30 16.0934 30 14L 26 14ZM 14.8172 36.8109C 13.3675 34.957 10.119 30.6913 7.22358 26.0536C 5.77383 23.7344 4.45885 21.4081 3.48574 19.2195C 2.50116 17.0107 2 15.2268 2 14L -2 14C -2 16.0934 -1.2104 18.5089 -0.16774 20.848C 0.886398 23.2074 2.33515 25.7778 3.83137 28.1732C 6.82783 32.9646 10.2003 37.4002 11.6662 39.2749L 14.8172 36.8109ZM 2 14C 2 7.37258 7.37258 2 14 2L 14 -2C 5.16344 -2 -2 5.16344 -2 14L 2 14ZM 14 2C 20.6274 2 26 7.37258 26 14L 30 14C 30 5.16344 22.8366 -2 14 -2L 14 2ZM 13.1828 36.8109C 13.5921 36.2875 14.4079 36.2875 14.8172 36.8109L 11.6662 39.2749C 12.8584 40.7995 15.1416 40.7995 16.3338 39.2749L 13.1828 36.8109ZM 0 16L 1.32569e-34 16L 1.32569e-34 12L 0 12L 0 16ZM 12 0L 12 1.32569e-34L 16 1.32569e-34L 16 0L 12 0Z"/>
+<path id="path2_fill" fill-rule="evenodd" d="M 3.96658 6.69873L 3.96658 0L 0.0779038 9.3335C -0.19651 9.99194 0.287865 10.718 1.00124 10.718L 3.74343 10.718L 3.74343 17.4167L 7.6321 8.08325C 7.90652 7.4248 7.42214 6.69873 6.70876 6.69873L 3.96658 6.69873Z"/>
+</defs>
+</svg>

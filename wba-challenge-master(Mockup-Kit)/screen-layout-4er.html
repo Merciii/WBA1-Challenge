@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <title>Tesla Screen Demo</title>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="styles/generated/screen.css">
+
+    <!-- Font -->
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700" rel="stylesheet">
+</head>
+
+<body>
+    <main class="screen" id="screen">
+
+        <section class="screen__top-area">
+            <div class="top-area__upper-content">
+                <div id="sidebar" class="upper-content__left" data-trigger="fullscreenTarget">
+                    <img src="images/tsl/tsl-sidebar-tr.svg" alt="sidebar" id="tsl-sidebar">
+                </div>
+                <div class="upper-content__right" data-trigger="fullscreen" data-content-upper>
+                    <div class="screen__content tsl-fixed" draggable="true" data-trigger="fullscreenChild" data-screen-content>
+                        <div class="tsl-map" style="background-image: url(images/tsl/tsl-map.svg);"></div>
+                    </div>
+                </div>
+            </div>
+                <ul class="top-area__main-control">
+                  <li class="main-control__switch main-control__switch--model3"><img src="images/main-control-bar/model3-icon.svg" alt="switch model 3"></li>
+                  <li class="main-control__switch main-control__switch--defrost"><img src="images/main-control-bar/defrost-icon.svg" alt="switch defrost"></li>
+                  <li class="main-control__switch main-control__switch--heater"><img src="images/main-control-bar/heater-icon.svg" alt="switch heater"></li>
+                  <li class="main-control__switch main-control__switch--seat"><img src="images/main-control-bar/seat-left-icon.svg" alt="switch seat left"></li>
+                  <li class="main-control__switch main-control__switch--temp-left"><img src="images/main-control-bar/temp-icon.svg" alt="switch templ left"></li>
+                  <li class="main-control__switch main-control__switch--fan"><img src="images/main-control-bar/fan-level-icon.svg" alt="switch fan control"></li>
+                  <li class="main-control__switch main-control__switch--temp-right"><img src="images/main-control-bar/temp-icon.svg" alt="switch tempreature"></li>
+                  <li class="main-control__switch main-control__switch--seat"><img src="images/main-control-bar/seat-right-icon.svg" alt="switch seat right"></li>
+                  <li class="main-control__switch main-control__switch--music" data-control-music><img src="images/main-control-bar/music-icon.svg" alt="switch music"></li>
+                  <li class="main-control__switch main-control__switch--phone"><img src="images/main-control-bar/phone-icon.svg" alt="switch phone"></li>
+                  <li class="main-control__switch main-control__switch--volume"><img src="images/main-control-bar/volume-icon.svg" alt="switch volume"></li>
+                </ul>
+        </section>
+
+        <div id="sectionBottom" class="screen__bottom-area">
+
+            <!-- Section 1: oben links
+				##########################################################################-->
+            <section id="section1" class="bottom-area__item">
+                <div class="screen__content" draggable="true"  data-screen-content>
+                    <!-- Put your Content here ###########################################-->
+
+                    <h4>Super Content Area 1</h4>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris</p>
+                    <button class="btn">Start Tour</button>
+
+                    <!-- End of content box 4 ############################################-->
+                </div>
+            </section>
+
+            <!-- Section 2: oben rechts
+				##########################################################################-->
+            <section id="section2" class="bottom-area__item">
+                <div class="screen__content is-scrollable" draggable="true"  data-screen-content>
+                    <!-- Put your Content here ###########################################-->
+
+                    <div class="card">
+                        <img class="card-img-top" src="https://static.pexels.com/photos/675764/pexels-photo-675764.jpeg" alt="Card image cap">
+                        <div class="card-body">
+                            <h4 class="card-title">Card title</h4>
+                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <a href="#" class="btn btn-primary">Go somewhere</a>
+                        </div>
+                    </div>
+
+                    <!-- End of content box 4 ############################################-->
+                </div>
+            </section>
+
+            <!-- Section 3: unten links
+				##########################################################################-->
+            <section id="section3" class="bottom-area__item">
+                <div class="screen__content" draggable="true" data-screen-content>
+                    <!-- Put your Content here ###########################################-->
+
+                    <img src="images/tsl/tsl-about.svg" alt="About this car">
+
+                    <!-- End of content box 3 ############################################-->
+                </div>
+            </section>
+
+            <!-- Section 4: unten rechts
+				##########################################################################-->
+            <section id="section4" class="bottom-area__item">
+                <div class="screen__content is-scrollable" draggable="true" data-screen-content>
+                    <!-- Put your Content here ###########################################-->
+
+                    <h4>Super Content Area 4</h4>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris</p>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris</p>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris</p>
+                    <button class="btn">Start engine</button>
+
+                    <!-- End of content box 4 ############################################-->
+                </div>
+            </section>
+
+        </div>
+    </main>
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
+
+    <!-- Drag & Drop zwischen den Screens -->
+    <script src="scripts/tesla-dnd.js"></script>
+
+    <!-- Volle Breite für die Karte -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/zingtouch/1.0.5/zingtouch.min.js"></script>
+    <script src="scripts/tesla-fs-map.js"></script>
+
+    <!-- Verschiedene Layouts via Query String -->
+    <script src="scripts/tesla-layout-switch.js"></script>
+    
+    <!-- Verschiedene Layouts via Query String -->
+    <script src="scripts/tesla-main-control.js"#></script>
+
+</body>

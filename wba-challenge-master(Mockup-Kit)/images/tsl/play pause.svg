@@ -1,0 +1,18 @@
+<svg width="48" height="48" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>play pause</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(8174 -541)">
+<rect x="-8174" y="541" width="48" height="48" fill="#777777"/>
+<clipPath id="clip-0" clip-rule="evenodd">
+<path d="M -8174 541L -8126 541L -8126 589L -8174 589L -8174 541Z" fill="#FFFFFF"/>
+</clipPath>
+<g id="play pause" clip-path="url(#clip-0)">
+<g id="pause">
+<use xlink:href="#path0_fill" transform="translate(-8161 550)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 2 0C 0.895508 0 0 0.895508 0 2L 0 28C 0 29.1045 0.895508 30 2 30L 5 30C 6.10449 30 7 29.1045 7 28L 7 2C 7 0.895508 6.10449 0 5 0L 2 0ZM 17 0C 15.8955 0 15 0.895508 15 2L 15 28C 15 29.1045 15.8955 30 17 30L 20 30C 21.1045 30 22 29.1045 22 28L 22 2C 22 0.895508 21.1045 0 20 0L 17 0Z"/>
+</defs>
+</svg>

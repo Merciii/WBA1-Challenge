@@ -1,0 +1,32 @@
+<svg width="80" height="175" viewBox="0 0 80 175" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>map zoom</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(8174 -1494)">
+<g id="map zoom">
+<g id="Rectangle">
+<use xlink:href="#path0_fill" transform="translate(-8174 1494)" fill="#000000" fill-opacity="0.9"/>
+</g>
+<clipPath id="clip-0" clip-rule="evenodd">
+<path d="M -8159 1509L -8111 1509L -8111 1557L -8159 1557L -8159 1509Z" fill="#FFFFFF"/>
+</clipPath>
+<g id="plus" clip-path="url(#clip-0)">
+<g id="Union">
+<use xlink:href="#path1_fill" transform="translate(-8145 1523)" fill="#FFFFFF" fill-opacity="0.6"/>
+</g>
+</g>
+<clipPath id="clip-1" clip-rule="evenodd">
+<path d="M -8159 1603L -8111 1603L -8111 1651L -8159 1651L -8159 1603Z" fill="#FFFFFF"/>
+</clipPath>
+<g id="minus" clip-path="url(#clip-1)">
+<g id="Rectangle 25">
+<use xlink:href="#path2_fill" transform="matrix(6.12323e-17 -1 1 6.12323e-17 -8145 1628.5)" fill="#FFFFFF" fill-opacity="0.6"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 0 40C 0 17.9086 17.9086 0 40 0C 62.0914 0 80 17.9086 80 40L 80 134C 80 156.091 62.0914 174 40 174C 17.9086 174 0 156.091 0 134L 0 40Z"/>
+<path id="path1_fill" fill-rule="evenodd" d="M 9.5 0C 8.94769 0 8.5 0.447754 8.5 1L 8.5 8.5L 1 8.5C 0.447693 8.5 0 8.94775 0 9.5L 0 10.5C 0 11.0522 0.447693 11.5 1 11.5L 8.5 11.5L 8.5 19C 8.5 19.5522 8.94769 20 9.5 20L 10.5 20C 11.0523 20 11.5 19.5522 11.5 19L 11.5 11.5L 19 11.5C 19.5523 11.5 20 11.0522 20 10.5L 20 9.5C 20 8.94775 19.5523 8.5 19 8.5L 11.5 8.5L 11.5 1C 11.5 0.447754 11.0523 0 10.5 0L 9.5 0Z"/>
+<path id="path2_fill" d="M 0 1C 0 0.447715 0.447715 0 1 0L 2 0C 2.55228 0 3 0.447715 3 1L 3 19C 3 19.5523 2.55228 20 2 20L 1 20C 0.447715 20 0 19.5523 0 19L 0 1Z"/>
+</defs>
+</svg>

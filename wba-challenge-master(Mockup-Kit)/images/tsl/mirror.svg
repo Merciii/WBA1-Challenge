@@ -1,0 +1,17 @@
+<svg width="48" height="48" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>mirror</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(7742 -901)">
+<clipPath id="clip-0" clip-rule="evenodd">
+<path d="M -7742 901L -7694 901L -7694 949L -7742 949L -7742 901Z" fill="#FFFFFF"/>
+</clipPath>
+<g id="mirror" clip-path="url(#clip-0)">
+<g id="Union">
+<use xlink:href="#path0_fill" transform="translate(-7733 913)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 27 0C 25.8955 0 25 0.895508 25 2L 25 10L 21 10L 18.9709 5.94141C 18.1162 4.23242 16.1716 3.36621 14.3293 3.87451L 9.38843 5.23779C 5.375 6.34473 2.13501 9.30664 0.673096 13.2051L 0.375488 13.9985C 0.127197 14.6606 0 15.3618 0 16.0688C 0 18.2397 1.75977 20 3.93091 20L 15 20C 17.3562 20 20 17.9253 20 16L 22 16L 22 16.5C 22 16.7759 22.2239 17 22.5 17L 25 17L 25 22C 25 23.1045 25.8955 24 27 24C 28.1045 24 29 23.1045 29 22L 29 2C 29 0.895508 28.1045 0 27 0Z"/>
+</defs>
+</svg>

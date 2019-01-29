@@ -1,0 +1,314 @@
+/* Do the Import
+-----------------------------------------------------------------------------*/
+
+@import "tesla";
+
+/* Screen Scaling
+-----------------------------------------------------------------------------*/
+
+body {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+@mixin scale-body ($class, $value) {
+    body.scale--#{$class} {
+        height: $screen_height*$value;
+        width: $screen_width*$value;
+    }
+    body.scale--#{$class} .screen {
+        transform-origin: 0 0;
+        transform: scale($value) ;
+    }
+}
+
+@include scale-body('03', 0.3);
+@include scale-body('04', 0.4);
+@include scale-body('05', 0.5);
+@include scale-body('06', 0.6);
+@include scale-body('07', 0.7);
+@include scale-body('08', 0.8);
+@include scale-body('08', 0.8);
+@include scale-body('09', 0.9);
+
+/* Screen Basics
+-----------------------------------------------------------------------------*/
+
+.screen {
+    height: $screen_height;
+    width: $screen_width;
+    display: grid;
+    align-self: center;
+    grid-template-rows: auto 1fr;
+    background-color: #000;
+    align-content: stretch;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.screen {
+    img {
+        width: 100%;
+    }
+}
+
+/* Class for activating a fluid screen (for example to use an iPad) */
+.screen--fluid {
+    height: $screen_height--fluid;
+    width: $screen_width--fluid;
+}
+
+/* Screen Layouts
+-----------------------------------------------------------------------------*/
+
+.screen.TwoRows-OneCol {
+    #section2,
+    #section4 {
+        display: none;
+    }
+    .screen__bottom-area {
+        grid-template-columns: 1fr;
+    }
+}
+
+.screen.OneRow-OneCol {
+    #section2,
+    #section3,
+    #section4 {
+        display: none;
+    }
+    .screen__bottom-area {
+        grid-template-columns: 1fr;
+    }
+}
+
+.screen.OneRow-TwoCols {
+    #section3,
+    #section4 {
+        display: none;
+    }
+}
+
+
+/* Screen Top Area
+-----------------------------------------------------------------------------*/
+
+.screen__top-area {
+    display: flex;
+    flex-direction: column;
+    z-index: 9;
+}
+
+.top-area__upper-content {
+    display: flex;
+    flex-direction: row;
+    transition: flex 0.5s 0.5s;
+}
+
+.upper-content__left {
+    transition: flex 0.5s;
+    flex: 1 1 auto;
+    width: 20%;
+}
+
+.upper-content__left.is-hidden {
+    flex: 0 0 auto;
+    width: 0;
+}
+
+.upper-content__right {
+    flex: 4 1 auto;
+    position: relative;
+    transition: width 2.5s;
+}
+
+
+/* Map
+-----------------------------------------------------------------------------*/
+
+.tsl-map {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-size: cover;
+}
+
+
+/* Screen Main Control Strip
+-----------------------------------------------------------------------------*/
+.top-area__main-control {
+    background-color: $tsl-black;
+    list-style-type: none;
+    margin: 0;
+    padding: 6px 0px;
+    text-align: center;
+    z-index: 10;
+}
+
+//.screen__main-control {
+//    background-color: $screen-bg;
+//    z-index: 10;
+.main-control__switch {
+    cursor: pointer;
+    display: inline-block;
+    margin-left: 20px;
+    margin-right: 20px;
+    width: 44px;
+    svg {
+        height: 0;
+    }
+}
+
+.main-control__switch--model3 {
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+
+.main-control__switch--defrost,
+.main-control__switch--heater {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.main-control__switch--seat,
+.main-control__switch--music {
+    padding-left: 13px;
+    padding-right: 13px;
+}
+
+.main-control__switch--temp-left,
+.main-control__switch--temp-right {
+//    width: 52px;
+}
+
+.main-control__switch--temp-left {
+    //margin-right: 0;
+}
+
+.main-control__switch--temp-right {
+//    margin-left: 0;
+}
+
+.main-control__switch--fan {
+    padding-left: 2px;
+    padding-right: 2px;
+}
+
+.main-control__switch--phone {
+    padding-left: 14px;
+    padding-right: 14px;
+}
+
+.main-control__switch--volume {
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+/* Screen Bottom Area
+-----------------------------------------------------------------------------*/
+
+.screen__bottom-area {
+    z-index: 10;
+    background-color: $screen-bg;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.bottom-area__item {
+    border: solid 1px #222;
+    overflow: hidden;
+    position: relative;
+}
+
+
+/* Screen Content
+-----------------------------------------------------------------------------*/
+
+.screen__content {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    background-position: center center;
+    background-size: cover;
+    padding: 1rem;
+    img {
+        width: 100%;
+    }
+}
+
+.screen__content.is-scrollable {
+    overflow: auto !important;
+}
+
+.screen__bottom-area .screen__content {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+}
+
+
+/* Screen Aspect Ratios
+-----------------------------------------------------------------------------*/
+
+@media screen and (min-aspect-ratio: 4/5) {
+    .screen-fluid {
+        .bottom-area__item:nth-child(n+3) {
+            display: none;
+        }
+    }
+}
+
+@media screen and (min-aspect-ratio: 1/1) {
+    .screen--fluid {
+        height: 200vH;
+
+        .screen__bottom-area,
+        .screen__top-area {
+            height: 100vh;
+        }
+        .top-area__upper-content {
+            flex: 1 1 auto;
+        }
+        .bottom-area__item:nth-child(n+3) {
+            display: block;
+        }
+    }
+
+}
+
+
+/* Drag & Drop
+-----------------------------------------------------------------------------*/
+
+
+/* Prevent the text contents of draggable elements from being selectable. */
+
+[draggable] {
+    -moz-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    user-select: none;
+    /* Required to make elements draggable in old WebKit */
+    -khtml-user-drag: element;
+    -webkit-user-drag: element;
+}
+
+[draggable]:hover {
+    cursor: move;
+}
+
+
+/* Helper
+-----------------------------------------------------------------------------*/
+.tsl-fixed {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}

@@ -1,0 +1,29 @@
+<svg width="88" height="88" viewBox="0 0 88 88" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title> light</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(7738 -1284)">
+<g id="map settings / light">
+<g id="map settings / light">
+<g id="Ellipse 11" filter="url(#filter0_d)">
+<use xlink:href="#path0_fill" transform="translate(-7734 1284)" fill="#F0F0F0"/>
+</g>
+<g id="gear">
+<use xlink:href="#path1_fill" transform="translate(-7714 1304)" fill="#000000" fill-opacity="0.4"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d" filterUnits="userSpaceOnUse" x="-7738" y="1284" width="88" height="88" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0"/>
+<feOffset dx="0" dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<path id="path0_fill" d="M 80 40C 80 62.0914 62.0914 80 40 80C 17.9086 80 0 62.0914 0 40C 0 17.9086 17.9086 0 40 0C 62.0914 0 80 17.9086 80 40Z"/>
+<path id="path1_fill" fill-rule="evenodd" d="M 17 3C 17 1.34314 18.3433 0 20 0C 21.6567 0 23 1.34314 23 3L 23 5.30005C 24.915 5.68884 26.6982 6.44238 28.2725 7.48523L 29.8994 5.85791C 31.0713 4.68628 32.9707 4.68628 34.1421 5.85791C 35.3135 7.02942 35.3135 8.92896 34.1421 10.1006L 32.5146 11.7278C 33.5576 13.3022 34.311 15.0848 34.6997 17L 37 17C 38.6567 17 40 18.3431 40 20C 40 21.6569 38.6567 23 37 23L 34.6997 23C 34.311 24.915 33.5571 26.6976 32.5146 28.272L 34.1426 29.8997C 35.314 31.0713 35.314 32.9707 34.1426 34.1423C 32.9707 35.3138 31.0713 35.3138 29.8999 34.1423L 28.2725 32.5148C 26.6982 33.5576 24.915 34.3112 23 34.7L 23 37C 23 38.6569 21.6567 40 20 40C 18.3433 40 17 38.6569 17 37L 17 34.7C 15.085 34.3112 13.3018 33.5576 11.7275 32.5148L 10.1001 34.1423C 8.92871 35.314 7.0293 35.314 5.85791 34.1423C 4.68604 32.9708 4.68604 31.0713 5.85791 29.8997L 7.48535 28.2721C 6.44238 26.6976 5.68896 24.915 5.30029 23L 3 23C 1.34326 23 0 21.6569 0 20C 0 18.3431 1.34326 17 3 17L 5.30029 17C 5.68896 15.0848 6.44238 13.3022 7.48535 11.7278L 5.85791 10.1005C 4.68652 8.92896 4.68652 7.02942 5.85791 5.85791C 7.0293 4.68628 8.9292 4.68628 10.1006 5.85791L 11.728 7.48511C 13.3022 6.44238 15.085 5.68872 17 5.30005L 17 3ZM 20 27C 23.8662 27 27 23.866 27 20C 27 16.134 23.8662 13 20 13C 16.1338 13 13 16.134 13 20C 13 23.866 16.1338 27 20 27Z"/>
+</defs>
+</svg>

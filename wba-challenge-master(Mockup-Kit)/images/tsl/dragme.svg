@@ -1,0 +1,18 @@
+<svg width="48" height="48" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>dragme</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(7886 -469)">
+<rect x="-7886" y="469" width="48" height="48" fill="#777777"/>
+<clipPath id="clip-0" clip-rule="evenodd">
+<path d="M -7886 469L -7838 469L -7838 517L -7886 517L -7886 469Z" fill="#FFFFFF"/>
+</clipPath>
+<g id="dragme" clip-path="url(#clip-0)">
+<g id="Union">
+<use xlink:href="#path0_fill" transform="translate(-7883 477)" fill="#FFFFFF" fill-opacity="0.4"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 0 1.5C 0 0.671631 0.671387 0 1.5 0L 40.5 0C 41.3286 0 42 0.671631 42 1.5C 42 2.32837 41.3286 3 40.5 3L 1.5 3C 0.671387 3 0 2.32837 0 1.5ZM 6 7.5C 6 6.67163 6.67139 6 7.5 6L 34.5 6C 35.3286 6 36 6.67163 36 7.5C 36 8.32837 35.3286 9 34.5 9L 7.5 9C 6.67139 9 6 8.32837 6 7.5ZM 15.5 12C 14.6714 12 14 12.6716 14 13.5C 14 14.3284 14.6714 15 15.5 15L 26.5 15C 27.3286 15 28 14.3284 28 13.5C 28 12.6716 27.3286 12 26.5 12L 15.5 12Z"/>
+</defs>
+</svg>

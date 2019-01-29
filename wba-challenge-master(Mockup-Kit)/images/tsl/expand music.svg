@@ -1,0 +1,18 @@
+<svg width="48" height="48" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>expand music</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(7958 -541)">
+<rect x="-7958" y="541" width="48" height="48" fill="#777777"/>
+<clipPath id="clip-0" clip-rule="evenodd">
+<path d="M -7958 541L -7910 541L -7910 589L -7958 589L -7958 541Z" fill="#FFFFFF"/>
+</clipPath>
+<g id="expand music" clip-path="url(#clip-0)">
+<g id="up">
+<use xlink:href="#path0_fill" transform="translate(-7948 556)" fill="#FAF6F6"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 14.9 0.30006C 14.3755 -0.093495 13.6558 -0.100575 13.1236 0.282726L 0.623585 9.28273C -0.0487783 9.76686 -0.201122 10.7041 0.282765 11.3765C 0.766651 12.0488 1.70415 12.2014 2.37651 11.7173L 13.982 3.36134L 25.1001 11.7C 25.7627 12.197 26.7032 12.0628 27.2002 11.3999C 27.6973 10.7373 27.5625 9.79713 26.9 9.30006L 14.9 0.30006ZM 1.00103 15C 0.44878 15 0.00102643 15.4478 0.00102643 16L 0.00102643 17C 0.00102643 17.5523 0.44878 18 1.00103 18L 27.001 18C 27.5533 18 28.001 17.5523 28.001 17L 28.001 16C 28.001 15.4478 27.5533 15 27.001 15L 1.00103 15Z"/>
+</defs>
+</svg>

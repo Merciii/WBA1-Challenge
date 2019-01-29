@@ -1,0 +1,17 @@
+<svg width="48" height="48" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>microphone</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(7958 -685)">
+<clipPath id="clip-0" clip-rule="evenodd">
+<path d="M -7958 685L -7910 685L -7910 733L -7958 733L -7958 685Z" fill="#FFFFFF"/>
+</clipPath>
+<g id="microphone" clip-path="url(#clip-0)">
+<g id="Union">
+<use xlink:href="#path0_fill" transform="translate(-7946 690)" fill="#FFFFFF" fill-opacity="0.4"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 12 0C 8.68628 0 6 2.68652 6 6L 6 20C 6 23.3135 8.68628 26 12 26C 15.3137 26 18 23.3135 18 20L 18 6C 18 2.68652 15.3137 0 12 0ZM 4 18C 4 16.8955 3.10449 16 2 16C 0.895508 16 0 16.8955 0 18L 0 20C 0 25.9458 4.32446 30.8818 10 31.834L 10 34L 4 34C 2.89551 34 2 34.8955 2 36C 2 37.1045 2.89551 38 4 38L 12 38L 20 38C 21.1045 38 22 37.1045 22 36C 22 34.8955 21.1045 34 20 34L 14 34L 14 31.834C 19.6755 30.8818 24 25.9458 24 20L 24 18C 24 16.8955 23.1045 16 22 16C 20.8955 16 20 16.8955 20 18L 20 20C 20 24.4185 16.4182 28 12 28C 7.58179 28 4 24.4185 4 20L 4 18Z"/>
+</defs>
+</svg>

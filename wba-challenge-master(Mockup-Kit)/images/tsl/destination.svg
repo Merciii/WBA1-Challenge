@@ -1,0 +1,17 @@
+<svg width="48" height="48" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>destination</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(7670 -682)">
+<clipPath id="clip-0" clip-rule="evenodd">
+<path d="M -7670 682L -7622 682L -7622 730L -7670 730L -7670 682Z" fill="#FFFFFF"/>
+</clipPath>
+<g id="destination" clip-path="url(#clip-0)">
+<g id="Subtract">
+<use xlink:href="#path0_fill" transform="translate(-7660 687)" fill="#FFFFFF" fill-opacity="0.4"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 14.7505 37.0771C 17.6558 33.458 28 20.1169 28 13.6411C 28 6.10718 21.7319 0 14 0C 6.26807 0 0 6.10718 0 13.6411C 0 20.1169 10.3442 33.458 13.2495 37.0771C 13.6406 37.5645 14.3594 37.5645 14.7505 37.0771ZM 14 20C 17.3135 20 20 17.3137 20 14C 20 10.6863 17.3135 8 14 8C 10.6865 8 8 10.6863 8 14C 8 17.3137 10.6865 20 14 20Z"/>
+</defs>
+</svg>

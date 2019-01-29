@@ -1,0 +1,17 @@
+<svg width="48" height="48" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>safety and security</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(7166 -901)">
+<clipPath id="clip-0" clip-rule="evenodd">
+<path d="M -7166 901L -7118 901L -7118 949L -7166 949L -7166 901Z" fill="#FFFFFF"/>
+</clipPath>
+<g id="safety and security" clip-path="url(#clip-0)">
+<g id="Union">
+<use xlink:href="#path0_fill" transform="translate(-7157 910)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 26 15C 26 21.0752 21.0752 26 15 26C 8.9248 26 4 21.0752 4 15C 4 8.9248 8.9248 4 15 4C 21.0752 4 26 8.9248 26 15ZM 30 15C 30 23.2842 23.2842 30 15 30C 6.71582 30 0 23.2842 0 15C 0 6.71582 6.71582 0 15 0C 23.2842 0 30 6.71582 30 15ZM 13.5 7C 13.5 6.44775 13.9478 6 14.5 6L 15.5 6C 16.0522 6 16.5 6.44775 16.5 7L 16.5 18C 16.5 18.5522 16.0522 19 15.5 19L 14.5 19C 13.9478 19 13.5 18.5522 13.5 18L 13.5 7ZM 13.5 22C 13.5 21.4478 13.9478 21 14.5 21L 15.5 21C 16.0522 21 16.5 21.4478 16.5 22L 16.5 23C 16.5 23.5522 16.0522 24 15.5 24L 14.5 24C 13.9478 24 13.5 23.5522 13.5 23L 13.5 22Z"/>
+</defs>
+</svg>
