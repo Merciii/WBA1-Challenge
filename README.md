@@ -4,8 +4,8 @@ Im Rahmen des Moduls "Web basierte Anwendungen 1" der TH Köln, soll eine  Web A
 
 
 Team Mitglieder:
-* [Merve Cinkaya](https://github.com/Mercii)
-* [Krzysztof Ossowski](https://github.com/***)
+* [Merve Cinkaya](https://github.com/Merciii)
+* [Krzysztof Ossowski](https://github.com/Krzysztofossowski)
 * [Paul Gleisberg](https://github.com/PGleisberg)
 
 ## Ideen
