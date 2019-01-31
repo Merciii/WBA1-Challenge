@@ -37,7 +37,7 @@ Team Mitglieder:
 
 ## Prototyp
 
-*Ein erster Entwurf des [Prototyps](https://github.com/Merciii/WBA1-Challenge/blob/master/Konzept/tesla.jpeg)
+*Ein erster (optischer) Entwurf des [Prototyps](https://github.com/Merciii/WBA1-Challenge/blob/master/Konzept/tesla.jpeg)
 
 *Der Quellcode des [Prototyps]()
 
