@@ -3,7 +3,7 @@
 Im Rahmen des Moduls "Web basierte Anwendungen 1" der TH Köln, soll eine  Web Anwendung entwickelt werden. Die Anwendung soll sich auf das selbst gewählte Problemszenario beziehen und eine adequate Lösung bieten.
 
 
-# Es handelt sich um eine Studentische Projektarbeit.
+# Es handelt sich um eine Studentische Projektarbeit
 
 
 Team Mitglieder:
