@@ -4,6 +4,7 @@ Im Rahmen des Moduls "Web basierte Anwendungen 1" der TH Köln, soll eine  Web A
 
 
 Team Mitglieder:
+
 * [Merve Cinkaya](https://github.com/Merciii)
 * [Krzysztof Ossowski](https://github.com/Krzysztofossowski)
 * [Paul Gleisberg](https://github.com/PGleisberg)
@@ -16,7 +17,6 @@ Team Mitglieder:
 *Ausstoß von co2 durch verschiedene energieträger
 
 
-*beruhigende Musikgeräusche
 
 *Verbrauch
 
