@@ -1,0 +1,17 @@
+<svg width="48" height="48" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>arrow</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(8174 -469)">
+<clipPath id="clip-0" clip-rule="evenodd">
+<path d="M -8174 469L -8126 469L -8126 517L -8174 517L -8174 469Z" fill="#FFFFFF"/>
+</clipPath>
+<g id="arrow" clip-path="url(#clip-0)">
+<g id="Vector 37">
+<use xlink:href="#path0_stroke" transform="translate(-8157 489.5)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_stroke" d="M 1.06066 -1.06066C 0.474874 -1.64645 -0.474874 -1.64645 -1.06066 -1.06066C -1.64645 -0.474874 -1.64645 0.474874 -1.06066 1.06066L 1.06066 -1.06066ZM 7 7L 5.93934 8.06066C 6.52513 8.64645 7.47487 8.64645 8.06066 8.06066L 7 7ZM 15.0607 1.06066C 15.6464 0.474874 15.6464 -0.474874 15.0607 -1.06066C 14.4749 -1.64645 13.5251 -1.64645 12.9393 -1.06066L 15.0607 1.06066ZM -1.06066 1.06066L 5.93934 8.06066L 8.06066 5.93934L 1.06066 -1.06066L -1.06066 1.06066ZM 8.06066 8.06066L 15.0607 1.06066L 12.9393 -1.06066L 5.93934 5.93934L 8.06066 8.06066Z"/>
+</defs>
+</svg>

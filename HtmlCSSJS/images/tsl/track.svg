@@ -1,0 +1,18 @@
+<svg width="48" height="48" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>track</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(8102 -541)">
+<rect x="-8102" y="541" width="48" height="48" fill="#777777"/>
+<clipPath id="clip-0" clip-rule="evenodd">
+<path d="M -8102 541L -8054 541L -8054 589L -8102 589L -8102 541Z" fill="#FFFFFF"/>
+</clipPath>
+<g id="track" clip-path="url(#clip-0)">
+<g id="Union">
+<use xlink:href="#path0_fill" transform="translate(-8089 552.5)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 19 0C 18.4478 0 18 0.447754 18 1L 18 24C 18 24.5522 18.4478 25 19 25L 21 25C 21.5522 25 22 24.5522 22 24L 22 1C 22 0.447754 21.5522 0 21 0L 19 0ZM 1.68066 1.5603C 1.04053 0.966309 0 1.42017 0 2.29321L 0 22.8257C 0 23.6802 1.00195 24.1411 1.65088 23.585L 13.1489 13.7295C 13.6025 13.3408 13.6162 12.6438 13.1787 12.2373L 1.68066 1.5603Z"/>
+</defs>
+</svg>

@@ -1,0 +1,17 @@
+<svg width="48" height="48" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>steering wheel-small</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(7598 -901)">
+<clipPath id="clip-0" clip-rule="evenodd">
+<path d="M -7550 901L -7598 901L -7598 949L -7550 949L -7550 901Z" fill="#FFFFFF"/>
+</clipPath>
+<g id="steering wheel-small" clip-path="url(#clip-0)">
+<g id="Union">
+<use xlink:href="#path0_fill" transform="matrix(-1 0 0 1 -7559 910)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 30 15C 30 23.2842 23.2842 30 15 30C 6.71582 30 0 23.2842 0 15C 0 6.71582 6.71582 0 15 0C 23.2842 0 30 6.71582 30 15ZM 17.0776 27.0972C 22.2012 26.2236 26.2417 22.1743 27.1025 17.0464C 20.4829 17.1367 17.4185 22.5181 17.0776 27.0972ZM 27.1978 13.6362L 24.2041 13.6362C 23.0303 13.6362 22.0454 13.2573 20.9243 12.8252C 19.4409 12.2544 17.7178 11.5908 15 11.5908C 12.2817 11.5908 10.5586 12.2544 9.0752 12.8252C 7.95361 13.2573 6.96924 13.6362 5.79541 13.6362L 2.80176 13.6362C 3.47998 7.49951 8.68262 2.72705 15 2.72705C 21.3169 2.72705 26.5195 7.49951 27.1978 13.6362ZM 2.89697 17.0464C 9.51611 17.1367 12.5811 22.5181 12.9219 27.0972C 7.79834 26.2236 3.75781 22.1738 2.89697 17.0464Z"/>
+</defs>
+</svg>

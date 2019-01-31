@@ -1,0 +1,25 @@
+<svg width="48" height="48" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>alert</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(8030 -397)">
+<clipPath id="clip-0" clip-rule="evenodd">
+<path d="M -8030 397L -7982 397L -7982 445L -8030 445L -8030 397Z" fill="#FFFFFF"/>
+</clipPath>
+<g id="alert" clip-path="url(#clip-0)">
+<g id="Group">
+<g id="Rectangle 14">
+<use xlink:href="#path0_fill" transform="translate(-8024 405)" fill="#E82127"/>
+</g>
+<g id="Vector 31">
+<use xlink:href="#path1_fill" transform="translate(-8008 412)" fill="#FFFFFF"/>
+<use xlink:href="#path2_fill" transform="translate(-8008 412)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 0 10C 0 4.47715 4.47715 0 10 0L 26 0C 31.5228 0 36 4.47715 36 10L 36 22C 36 27.5228 31.5228 32 26 32L 10 32C 4.47715 32 0 27.5228 0 22L 0 10Z"/>
+<path id="path1_fill" d="M 4 0L 1 0C 0.447715 0 0 0.447715 0 1L 0 2.90706C 0 2.96889 0.00573382 3.03058 0.0171278 3.09135L 1.34705 10.1843C 1.43574 10.6573 1.84871 11 2.32993 11L 2.67007 11C 3.15129 11 3.56426 10.6573 3.65295 10.1843L 4.98287 3.09135C 4.99427 3.03058 5 2.96889 5 2.90706L 5 1C 5 0.447715 4.55228 0 4 0Z"/>
+<path id="path2_fill" d="M 4 13L 1 13C 0.447715 13 0 13.4477 0 14L 0 16C 0 16.5523 0.447715 17 1 17L 4 17C 4.55228 17 5 16.5523 5 16L 5 14C 5 13.4477 4.55228 13 4 13Z"/>
+</defs>
+</svg>

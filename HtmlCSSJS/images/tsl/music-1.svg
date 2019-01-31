@@ -1,0 +1,17 @@
+<svg width="48" height="48" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>music</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(8030 -901)">
+<clipPath id="clip-0" clip-rule="evenodd">
+<path d="M -8030 901L -7982 901L -7982 949L -8030 949L -8030 901Z" fill="#FFFFFF"/>
+</clipPath>
+<g id="music" clip-path="url(#clip-0)">
+<g id="Union">
+<use xlink:href="#path0_fill" transform="translate(-8023 904.5)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 32 0L 8 6L 8 14L 8 31.9998C 7.16455 31.3721 6.12549 31 5 31C 2.23877 31 0 33.2385 0 36C 0 38.7615 2.23877 41 5 41C 7.76123 41 10 38.7615 10 36L 10 13.5L 30 8.5L 30 26.9998C 29.1646 26.3721 28.1255 26 27 26C 24.2388 26 22 28.2385 22 31C 22 33.7615 24.2388 36 27 36C 29.7612 36 32 33.7615 32 31L 32 8L 32 1L 32 0Z"/>
+</defs>
+</svg>

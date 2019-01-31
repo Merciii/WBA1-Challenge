@@ -1,0 +1,18 @@
+<svg width="48" height="48" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>search</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(8030 -541)">
+<rect x="-8030" y="541" width="48" height="48" fill="#777777"/>
+<clipPath id="clip-0" clip-rule="evenodd">
+<path d="M -8030 541L -7982 541L -7982 589L -8030 589L -8030 541Z" fill="#FFFFFF"/>
+</clipPath>
+<g id="search" clip-path="url(#clip-0)">
+<g id="Union">
+<use xlink:href="#path0_fill" transform="translate(-8018 553)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 18 10.5C 18 14.6421 14.6421 18 10.5 18C 6.35791 18 3 14.6421 3 10.5C 3 6.35791 6.35791 3 10.5 3C 14.6421 3 18 6.35791 18 10.5ZM 16.7886 18.9094C 15.0356 20.2224 12.8584 21 10.5 21C 4.70117 21 0 16.2991 0 10.5C 0 4.70093 4.70117 0 10.5 0C 16.2988 0 21 4.70093 21 10.5C 21 12.8586 20.2227 15.0354 18.9097 16.7883L 28.0605 25.9395C 28.6465 26.5251 28.6465 27.4749 28.0605 28.0605C 27.4751 28.6465 26.5249 28.6465 25.9395 28.0605L 16.7886 18.9094Z"/>
+</defs>
+</svg>

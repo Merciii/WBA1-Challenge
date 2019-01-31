@@ -1,0 +1,33 @@
+<svg width="120" height="60" viewBox="0 0 120 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Switch</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(8175 -1200)">
+<clipPath id="clip-0" clip-rule="evenodd">
+<path d="M -8175 1200L -8055 1200L -8055 1260L -8175 1260L -8175 1200Z" fill="#FFFFFF"/>
+</clipPath>
+<g id="Switch" clip-path="url(#clip-0)">
+<g id="Off">
+<g id="Off">
+<use xlink:href="#path0_fill" transform="translate(-8175 1200)" fill="#0E0E0E"/>
+<use xlink:href="#path0_fill" transform="translate(-8175 1200)" fill="#FFFFFF" fill-opacity="0.2"/>
+</g>
+<g id="Off" filter="url(#filter0_d)">
+<use xlink:href="#path1_fill" transform="translate(-8171 1204)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d" filterUnits="userSpaceOnUse" x="-8175" y="1204" width="60" height="60" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0"/>
+<feOffset dx="0" dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<path id="path0_fill" d="M 0 30C 0 13.4315 13.4315 0 30 0L 90 0C 106.569 0 120 13.4315 120 30C 120 46.5685 106.569 60 90 60L 30 60C 13.4315 60 0 46.5685 0 30Z"/>
+<path id="path1_fill" d="M 0 26C 0 11.6406 11.6406 0 26 0C 40.3594 0 52 11.6406 52 26C 52 40.3594 40.3594 52 26 52C 11.6406 52 0 40.3594 0 26Z"/>
+</defs>
+</svg>

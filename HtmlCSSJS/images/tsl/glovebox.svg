@@ -1,0 +1,17 @@
+<svg width="48" height="48" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>glovebox</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(7454 -901)">
+<clipPath id="clip-0" clip-rule="evenodd">
+<path d="M -7454 901L -7406 901L -7406 949L -7454 949L -7454 901Z" fill="#FFFFFF"/>
+</clipPath>
+<g id="glovebox" clip-path="url(#clip-0)">
+<g id="Union">
+<use xlink:href="#path0_fill" transform="translate(-7446 909)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 28 3L 4 3C 3.44775 3 3 3.44775 3 4L 3 8.12598C 3.31982 8.0437 3.65479 8 4 8L 28 8C 28.3452 8 28.6802 8.0437 29 8.12598L 29 4C 29 3.44775 28.5522 3 28 3ZM 3 18L 3 12C 3 11.4478 3.44775 11 4 11L 28 11C 28.5522 11 29 11.4478 29 12L 29 18C 29 18.5522 28.5522 19 28 19L 4 19C 3.44775 19 3 18.5522 3 18ZM 0 4L 0 12L 0 18C 0 20.2092 1.79102 22 4 22L 28 22C 30.209 22 32 20.2092 32 18L 32 12L 32 4C 32 1.79077 30.209 0 28 0L 4 0C 1.79102 0 0 1.79077 0 4ZM 10.9604 26.8477C 10.3237 26.3174 9.37793 26.4033 8.84766 27.0398C 8.31738 27.676 8.40332 28.6221 9.03955 29.1523L 15.0396 34.1523C 15.5962 34.616 16.4038 34.616 16.9604 34.1523L 22.9604 29.1523C 23.5967 28.6221 23.6826 27.676 23.1523 27.0398C 22.6221 26.4033 21.6763 26.3174 21.0396 26.8477L 16 31.0474L 10.9604 26.8477Z"/>
+</defs>
+</svg>

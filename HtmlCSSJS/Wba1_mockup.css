@@ -1,0 +1,115 @@
+
+
+
+/*HintergrundFarbe Gesamtseite*/
+html{
+  background-color:  white;
+}
+body{
+  background-color:  1a1a1a;
+  /* passt sich an  dieses Fenster*/
+  max-width: 100%;
+  margin: auto;
+}
+
+
+
+#wrapper {
+width: 900px;
+margin:0;
+}
+
+#leftCol {
+float: right;
+width: 900px;
+}
+
+
+
+#rightCol {
+float: left;
+width: 900px;
+}
+
+
+
+.iconImages{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  size: 100px;
+  max-width: 100px
+}
+
+.iconBLOCK{
+
+
+  float: left;
+  width: 75%;
+  margin-top: 5%;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding: 0px;
+  text-align: center;
+}
+
+.iconHeadline{
+  margin-top: 12px;
+  size: 50px;
+  max-width: 50px
+  text-align: center;
+}
+
+
+
+.iconText{
+  margin-top: 5px;
+  size: 50px;
+  max-width: 50px
+  text-align: center;
+}
+
+.iconBTN{
+  margin-top: 5px;
+  size: 50px;
+  max-width: 50px
+  text-align: center;
+  color: black;
+}
+
+/*Die Anzeige auf Welcher seite man ist */
+.carousel{
+  position: relative;
+  height: 500px ;
+  margin: auto;
+}
+
+/*
+nav{
+  text-align: center;
+}
+a{
+  text-decoration: none;
+  color: white;
+  padding-left: 40%;
+}
+
+*/
+
+.Test123{
+  margin-left: 35%;
+}
+
+
+
+
+/*Scrollbar*/
+.jspVerticalBar
+
+{
+	width: 6px;color: Black;
+}
+.jspHorizontalBar
+{
+	height: 6px;
+}

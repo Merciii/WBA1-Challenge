@@ -1,0 +1,17 @@
+<svg width="48" height="48" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>camera</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(8102 -685)">
+<clipPath id="clip-0" clip-rule="evenodd">
+<path d="M -8102 685L -8054 685L -8054 733L -8102 733L -8102 685Z" fill="#FFFFFF"/>
+</clipPath>
+<g id="camera" clip-path="url(#clip-0)">
+<g id="Union">
+<use xlink:href="#path0_fill" transform="translate(-8095 692)" fill="#FFFFFF" fill-opacity="0.4"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 34 17C 34 26.3887 26.3889 34 17 34C 7.61108 34 0 26.3887 0 17C 0 7.61133 7.61108 0 17 0C 26.3889 0 34 7.61133 34 17ZM 31 17C 31 24.7319 24.7319 31 17 31C 9.26807 31 3 24.7319 3 17C 3 9.26807 9.26807 3 17 3C 24.7319 3 31 9.26807 31 17ZM 17 28C 23.0752 28 28 23.0752 28 17C 28 10.9248 23.0752 6 17 6C 10.9248 6 6 10.9248 6 17C 6 23.0752 10.9248 28 17 28ZM 14 18C 16.2092 18 18 16.209 18 14C 18 11.791 16.2092 10 14 10C 11.7908 10 10 11.791 10 14C 10 16.209 11.7908 18 14 18ZM 23 21.5C 23 22.8809 21.8806 24 20.5 24C 19.1194 24 18 22.8809 18 21.5C 18 20.1191 19.1194 19 20.5 19C 21.8806 19 23 20.1191 23 21.5Z"/>
+</defs>
+</svg>

@@ -1,0 +1,86 @@
+
+
+
+/*HintergrundFarbe Gesamtseie*/
+html{
+  background-color:  white;
+
+}
+body{
+  /* passt sich an  dieses Fenster*/
+  max-width: 100%;
+  margin: auto;
+}
+
+
+
+
+
+
+.iconImages{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  size: 50%;
+  max-width: 180px
+}
+
+.iconBLOCK{
+  margin-top: 5%;
+  text-align: center;
+}
+
+.iconHeadline{
+  margin-top: 12px;
+  text-align: center;
+}
+
+
+
+.iconText{
+  margin-top: 12px;
+  text-align: center;
+}
+
+.iconBTN{
+  margin-top: 12px;
+  text-align: center;
+  color: white;
+}
+
+/*Die Anzeige auf Welcher seite man ist */
+.carousel{
+  position: relative;
+  height: 500px ;
+  margin: auto;
+}
+
+/*
+nav{
+  text-align: center;
+}
+a{
+  text-decoration: none;
+  color: white;
+  padding-left: 40%;
+}
+
+*/
+
+.Test123{
+  margin-left: 35%;
+}
+
+
+
+
+/*Scrollbar*/
+.jspVerticalBar
+
+{
+	width: 6px;color: Black;
+}
+.jspHorizontalBar
+{
+	height: 6px;
+}
