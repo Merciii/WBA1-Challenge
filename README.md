@@ -34,13 +34,13 @@ Team Mitglieder:
 
 ## Konzeptseite
 
-*Der Quellcode der [Konzeptseite](https://github.com/Merciii/WBA1-Challenge/blob/master/HtmlCSSJS/index.html)
+*Der Quellcode der [Konzeptseite](https://github.com/Merciii/WBA1-Challenge/blob/master/docs/index.html)
 
 ## Prototyp
 
 *Ein erster (optischer) Entwurf des [Prototyps](https://github.com/Merciii/WBA1-Challenge/blob/master/Konzept/tesla.jpeg)
 
-*Der Quellcode des [Prototyps](https://github.com/Merciii/WBA1-Challenge/blob/master/HtmlCSSJS/screen-layout-4er.html)
+*Der Quellcode des [Prototyps](https://github.com/Merciii/WBA1-Challenge/blob/master/docs/screen-layout-4er.html)
 
 
 
