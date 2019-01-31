@@ -20,7 +20,7 @@ Team Mitglieder:
 
 *Verbrauch
 
-*BILDER
+*Bilder
 
 
 ## Konzept
